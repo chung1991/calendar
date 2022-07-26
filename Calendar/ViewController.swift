@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Calendar
 //
-//  Created by Chung EXI-Nguyen on 6/9/22.
+//  Created by Chung Nguyen on 6/9/22.
 //
 
 import UIKit
